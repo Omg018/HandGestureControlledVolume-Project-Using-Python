@@ -89,7 +89,7 @@ These controls are part of a gesture-based interface, where hand movements or po
 
 # Hand Landmarks Documentation
 
-![Hand Landmarks](hand_landmarks_docs.png)
+![Hand Landmarks](/images/hand_landmarks_docs.png)
 
 ## Overview:
 The hand landmarks image provides a visual representation of the key points detected on a human hand. These landmarks are used in applications like gesture recognition, hand tracking, and augmented reality.
